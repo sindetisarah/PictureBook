@@ -52,6 +52,8 @@
         android:id="@+id/tvParagraph"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
         android:layout_marginBottom="212dp"
         android:text="I am also loving it here in Android Studio.Apllication of the concepts i hav learnt in Kotlin.It is really Fun!!."
         android:textColor="#150101"
